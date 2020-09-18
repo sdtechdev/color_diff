@@ -1,3 +1,4 @@
+require 'color_diff/color/hsl'
 require 'color_diff/color/rgb'
 require 'color_diff/color/xyz'
 require 'color_diff/color/lab'
